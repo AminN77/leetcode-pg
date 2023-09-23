@@ -8,7 +8,7 @@ import (
 // [-1 0 1]
 
 func main() {
-	input := []int{-2, 0, 0, 2, 2}
+	input := []int{2, 2, 2, 2}
 	log.Println(threeSum(input))
 }
 
